@@ -48,9 +48,7 @@ My proyecto es una e-commerce desarrollada en ReactJs y creada como proyecto fin
 	- CartForm
 	- CartItem
 	- CartFooter
-- FrontPage
 - Footer
-
 
 - Context
 	- CartContext
@@ -94,7 +92,7 @@ Datos requeridos para la carga de productos:
 | categorie      | String        |   Nombre que aparecerá en NavBar |
 
 ##### Imágenes
-Si se utilizarán elementos multimedia como imágenes, logos, etc., y los mismos estén dentro de las carpetas del proyecto, se sugiere ubicarlos en  `public/media/` para que la ruta en Firebase sea `../media/imagen.jpg`
+Si se utilizarán elementos multimedia como imágenes, logos, etc., y los mismos estén dentro de las carpetas del proyecto, se sugiere ubicarlos en  `public/assets/` para que la ruta en Firebase sea `../assets/imagen.jpg`
 
 
 ------------
@@ -127,7 +125,6 @@ Los datos que guarda son:
 		'nombre': (String / Nombre del producto)
 		'precio': (Number / precio del producto)
 		'stock' (Number / Cantidad de unidades en stock)
-		'subTotal' (Number / Subtotal del producto)
 	}]
 	
 	'total':  		//(String / Total de la compra)
@@ -141,7 +138,7 @@ Los datos que guarda son:
 
 #### Peticiones
 
-La función ** getItems**  trae todos los productos cargados en la categoría **products**
+La función ** getItems**  trae todos los productos cargados en la categoría **productos**
 
 La función **getItemById** trae el producto seleccionado para ver detalle
 
