@@ -71,7 +71,7 @@ Dentro del archivo está la conexión con Firebase, deberás copiar las credenci
 
 Datos requeridos para la carga de productos:
 
-**Nombre de colección : `products`**
+**Nombre de colección : `productos`**
 
 | Campo  | Tipo de dato  | Descripción |
 | :------------ |:---------------:| :-----:|
