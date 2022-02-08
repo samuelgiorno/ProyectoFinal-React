@@ -5,7 +5,7 @@ My proyecto es una e-commerce desarrollada en ReactJs y creada como proyecto fin
 - He creado una e-commerce inspirada en algunos productos de la marca Reebok, especificamente zapatillas deportivas de la marca.
 - Se realizó con React JS, JSX, Sass y Bootstrap como framework.
 
-<img src="./public/assets/" />
+<img src="./public/assets/ProyectoReact.gif" />
 
 
 ------------
